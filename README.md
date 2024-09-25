@@ -1,4 +1,4 @@
-# node-gitignoreFile
+# node-gitignoreFile 
 # Logs
 logs
 *.log
